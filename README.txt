@@ -1,4 +1,4 @@
-Scale SDK Pack — v2.1.0
+Scale SDK Pack — v2.0.1
 =======================
 
 CONTENTS:
@@ -12,7 +12,7 @@ SCRIPT HOSTING:
   Upload the /sdk/ files to your server or CDN and reference
   them in your WordPress functions.php.
 
-CHANGELOG v2.1.0:
+CHANGELOG v2.0.1:
   - Phone number now resolved directly from visit registration response
     (no separate /api/calls/phone/assign call needed)
   - Separate phone fetch kept as fallback if visit response has no phone
@@ -22,4 +22,4 @@ CHANGELOG v2.1.0:
   - funnel_step_id included in visit tracking payload
   - Optimized phone fetch timings (faster display after LCP)
 
-VERSION: SDK v2.1.0 | Docs v1.1 | 2026
+VERSION: SDK v2.0.1 | Docs v1.1 | 2026
